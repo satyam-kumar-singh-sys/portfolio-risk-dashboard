@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**🔗 Live app: [https://your-actual-url.streamlit.app](https://your-actual-url.streamlit.app)**
+**🔗 Live app: [https://portfolio-risk-dashboard-basic-ver.streamlit.app/](https://portfolio-risk-dashboard-basic-ver.streamlit.app/)**
 
 An interactive Streamlit app for analyzing the risk and return characteristics of a stock 
 portfolio. Pick stocks from a 50-ticker stock list covering 9 sectors, set your own portfolio 
