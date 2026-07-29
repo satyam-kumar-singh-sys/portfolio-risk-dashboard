@@ -1,5 +1,8 @@
 # Portfolio Risk & Return Dashboard
 
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An interactive Streamlit app for analyzing the risk and return characteristics of a stock 
 portfolio. Pick stocks from a 50-ticker stock list covering 9 sectors, set your own portfolio 
 weights, and get back key risk metrics computed from historical daily price data pulled via 
